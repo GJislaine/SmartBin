@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742228531562",
+    "firebase_url": "https://smartbin-d14e9-default-rtdb.firebaseio.com",
+    "project_id": "smartbin-d14e9",
+    "storage_bucket": "smartbin-d14e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742228531562:android:d2a0f83cfffe25cd0bad13",
+        "android_client_info": {
+          "package_name": "com.example.smartbin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BmJuWBwuO3dIRM87b64QXEr99XXAfkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
